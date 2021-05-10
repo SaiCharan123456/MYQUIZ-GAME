@@ -48,7 +48,7 @@ class Quiz {
    this.tall = createElement('h1');
     this.tall.position(350, 0);
 
-    Question.reset.display();
+    //Question.reset.display();
     //call getContestantInfo( ) here
    Contestant.getContestantInfo();
     
